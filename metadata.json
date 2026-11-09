@@ -1,0 +1,6 @@
+{
+  "name": "PHP 8.4 & C++ Native Engine",
+  "description": "Сучасна платформа оновлення до найновішої стабільної версії PHP 8.4 з компілятором у високопродуктивний C++23, інтерактивним пісочником та аналізатором міграції.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
